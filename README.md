@@ -50,3 +50,5 @@ This repository contains four projects:
 
 - Backend: run `mvn -q -e -DskipTests package` at repo root to build services.
 - Frontend: run `npm install` then `npm run dev` inside `frontend-app`.
+
+## Course service GCP SQL Database demo video - https://drive.google.com/file/d/1kL-WPprKVSFTbVwAb6fYA5jEJUdJyJYz/view?usp=drive_link
